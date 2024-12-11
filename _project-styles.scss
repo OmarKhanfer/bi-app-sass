@@ -1,1 +1,8 @@
+// header section
 
+
+.header {
+  .profile {
+    @include padding-left(15px);
+  }
+}
